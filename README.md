@@ -7,4 +7,4 @@ Usage of java code:
 processing.java was used to add the VM waste based on the equation we modeled. (1 - avgCPU/100)*cost)
 javatester.java and sotryioranking were used to determine the rankings of the VM waste
 SecondFinalProcessing.java was used to compare the different parameters so we could identify VMs that had considerable waste and cost impact towards users.
-FinalProcessing.java was used to determine a list of wasted VMs we identified and showed the recommended specifications along with the saved costs if using the recommended specifications. 
+FinalProcessing.java was used to determine a list of wasted VMs we identified and showed the recommended specifications along with the saved costs if using the recommended specifications. Read more of our technical report to understand our research. Thank you!
