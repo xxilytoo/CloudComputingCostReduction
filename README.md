@@ -13,4 +13,6 @@ SecondFinalProcessing.java was used to compare the different parameters so we co
 
 FinalProcessing.java was used to determine a list of wasted VMs we identified and showed the recommended specifications along with the saved costs if using the recommended specifications. 
 
+Furthermore, we also used Orange to create a pricing model and analyze data. 
+
 Read more of our technical report to understand our research. Thank you!
