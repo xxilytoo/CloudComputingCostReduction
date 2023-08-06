@@ -17,4 +17,4 @@ Furthermore, we also used Orange to create a pricing model and analyze data.
 
 Read more of our technical report to understand our research. Thank you!
 
-Technical Report: https://github.com/xxilytoo/CloudComputingCostReduction/blob/main/Cloud_Computing_Recommendation_Algorithm_Technical_Report.docx
+Official Published Technical Report: https://www.jsr.org/hs/index.php/path/article/view/3362
